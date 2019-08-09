@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="testtable1" max_length="40" name="sn_demo15_testtable1" type="collection"/>
+    <element label="testtable1" max_length="40" name="sn_demo15_testtable1" type="collection">
+        <element label="testcol2" max_length="45" name="testcol2" type="string"/>
+    </element>
 </database>
